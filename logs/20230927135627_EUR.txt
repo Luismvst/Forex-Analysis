@@ -1,0 +1,3 @@
+Base currency: EUR, Target currency: USD
+Path 1: ['EUR', 'USD'] - Profit rate: 1.054429
+Execution Time: 5.371504306793213 seconds

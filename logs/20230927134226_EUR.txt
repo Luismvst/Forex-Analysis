@@ -1,0 +1,4 @@
+Most profitable path from EUR to VND: ['EUR', 'XCD', 'HKD', 'SLE', 'MZN', 'DJF', 'KZT', 'IQD', 'MNT', 'ZMK', 'VND']
+Profit rate: 6.721366345703079e+52%
+Most profitable path from VND to EUR: ['VND', 'EUR']
+Profit rate: -1094.3698074521967%

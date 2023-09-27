@@ -1,0 +1,3 @@
+Conversion,Details
+EUR_to_VND,"{'path': ['EUR', 'XCD', 'HKD', 'SLE', 'MZN', 'DJF', 'KZT', 'IQD', 'MNT', 'ZMK', 'VND'], 'profit': 25709.38342899999}"
+VND_to_EUR,"{'path': ['VND', 'EUR'], 'profit': 3.889630425255579e-05}"
